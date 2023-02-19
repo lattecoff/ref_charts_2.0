@@ -14,6 +14,7 @@ plt.xlabel('x')
 plt.ylabel('y')
 plt.title('Interesting Graph\nCheck it out')
 plt.legend()
+plt.grid(linestyle='-', linewidth=0.5)
 plt.show()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
